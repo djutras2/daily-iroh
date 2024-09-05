@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#7faacaff</color>
+    <color name="colorAccent">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="CFE1EDFF">#3f51b5</color>
+    <color name="colorLightBlue">#aacaff</color>
+    <color name="evenLighterBlue">#e1edff</color>
+    <color name="lightAccent">#ddfdff</color>
+    <color name="darkAccent">#7999cc</color>
+    <color name="hillLight">#f9e592</color>
+    <color name="hillDark">#e7c95d</color>
+    <color name="earthKingdom">#b6c6a5</color>
+    <color name="fireKingdom">#e27a5a</color>
+</resources>

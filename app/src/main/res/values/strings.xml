@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Daily Iroh</string>
+    <string name="preference_file_key">preference_file_key</string>
+    <string name="notifications">Notifications</string>
+    <string name="rate">Rate</string>
+    <string name="share">Share</string>
+    <string name="more_apps">More Apps</string>
+    <string name="set">Set</string>
+    <string name="ads">Ads</string>
+
+    <string name="adsClicked">I haven\'t added in optional ads yet. This is more of a practice thing for myself and the app will continue to be ad-free!</string>
+    <string name="notificationsOff">Notifications off</string>
+    <string name="notificationsSet">Daily notifications set for </string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="purchase_message">To access this feature you must purchase the premium upgrade.  This upgrade unlocks:\n-220+ quotes and five additional characters.\n-20+ notification sound effects.
+        \n-A skip button for days when you need a little more ATLA in your life.</string>
+    <string name="purchase_title">Premium Content</string>
+
+    <string name="ok">Okay!</string>
+    <string name="cancel">No, thanks.</string>
+    <string name="database_upgrade_message">
+        Hi! Just wanted to let everyone know that as of the most recent Daily Iroh update, you can (optionally) get quotes from other characters.
+         I\'ve put a lot of time and effort into this app and I want to sincerely thank everyone that uses it! Have a great day!</string>
+    <string name="characters">Characters</string>
+    <string name="vibrate">Vibrate</string>
+    <string name="other">Other</string>
+    <string name="skip_button">Skip Button</string>
+    <string name="more_to_come">And more to come!</string>
+    <string name="character_notification">Character Notification Sound</string>
+</resources>
